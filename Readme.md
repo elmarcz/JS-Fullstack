@@ -12,12 +12,15 @@
     <img src='https://raw.githubusercontent.com/sammwyy/sammwyy/master/skills/javascript.jpg' height='50px'/> 
     <img src='https://raw.githubusercontent.com/sammwyy/sammwyy/master/skills/mongo.png' height='50px'/>
     <img src='https://raw.githubusercontent.com/sammwyy/sammwyy/master/skills/nodejs.png' height='50px'/>
+    <img src='src/Bootstrap.png' height='50px'/>
     <img src='src/webpack.png' height='50px'/>
 </p>
 
 ## 📝 Description
 
-A project that I use to practise. Te video that i use to practise is this: [Fazt](https://www.youtube.com/watch?v=Fs1G1BcP4BI&list=PLo5lAe9kQrwq7n_REwpZdfggPCBW2ggnh&t=5s)
+A project that I use to practise. The video that i use to practise is this: [Fazt](https://www.youtube.com/watch?v=Fs1G1BcP4BI&list=PLo5lAe9kQrwq7n_REwpZdfggPCBW2ggnh&t=5s).
+
+This is an app which allows you to add, delete and view books uploaded to a database (mongodb). Using Html, Css, Sass, Bootstrap, Javascript, Mongodb, Nodejs and Webpack.
 
 ## 🌃 Freatures
 
@@ -30,7 +33,7 @@ A project that I use to practise. Te video that i use to practise is this: [Fazt
 
 ## 📱 Website link
 
-- [Link](https://elmarcz.github.io/Passwords)
+- [Link](https://elmarcz.github.io/JS-Fullstack)
 
 ### 👤 Stay in touch
 
