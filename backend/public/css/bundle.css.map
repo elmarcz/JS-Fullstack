@@ -1,0 +1,1 @@
+{"version":3,"file":"css/bundle.css","mappings":"AAAA;IACI,UAAU;AACd,C","sources":["webpack://JS-Fullstack/./frontend/styles/css/styles2.css"],"sourcesContent":["h1{\r\n    color: red;\r\n}"],"names":[],"sourceRoot":""}
