@@ -21,9 +21,12 @@ A project that I use to practise. Te video that i use to practise is this: [Fazt
 
 ## 🌃 Freatures
 
-- [ ] Frontend
-- [ ] Backend
-- [ ] Database
+- [x] Frontend
+- [x] Backend
+- [x] Database
+
+- [ ] Hosted
+
 
 ## 📱 Website link
 
