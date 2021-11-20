@@ -41,6 +41,7 @@ This is an app which allows you to add, delete and view books uploaded to a data
 ### App Hosted 📁
 - [Link](https://elmarcz.github.io/JS-Fullstack)
 
+## 🔍 Other
 ### 👤 Stay in touch
 
 - [Website](https://elmarcz.github.io/portfolio/)
@@ -48,4 +49,4 @@ This is an app which allows you to add, delete and view books uploaded to a data
 - [Discord](https://discord.com/invite/zPSYDGVXxx)
 - [Instagram](https://www.instagram.com/marcmedranoz/)
 
-### 🔅 Made by Marc Medrano
+### ♥ Made by Marc Medrano
