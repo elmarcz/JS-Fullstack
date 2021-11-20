@@ -30,6 +30,13 @@ This is an app which allows you to add, delete and view books uploaded to a data
 
 - [ ] Hosted
 
+## 💡 App Info
+### Start the app
+<b>mongod</b>
+<b>npm run dev</b>
+
+### Port
+<b>localhost:3000</b>
 
 ## 📱 Website link
 
