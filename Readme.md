@@ -38,8 +38,7 @@ This is an app which allows you to add, delete and view books uploaded to a data
 ### Port 🔒
 - <b>localhost:3000</b>
 
-## 📱 Website link
-
+### App Hosted 📁
 - [Link](https://elmarcz.github.io/JS-Fullstack)
 
 ### 👤 Stay in touch
