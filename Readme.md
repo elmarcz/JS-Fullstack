@@ -28,7 +28,7 @@ This is an app which allows you to add, delete and view books uploaded to a data
 - [x] Backend
 - [x] Database
 
-- [ ] Hosted
+- [X] Hosted
 
 ## 💡 App Info
 ### Start the app 🔌
@@ -37,6 +37,12 @@ This is an app which allows you to add, delete and view books uploaded to a data
 
 ### Port 🔒
 - <b>localhost:3000</b>
+
+### Dependencies 🔃
+- <b>mongod</b>
+
+### Dev Dependencies 📦
+- <b>mongod</b>
 
 ### App Hosted 📁
 - [Link](https://elmarcz.github.io/JS-Fullstack)
