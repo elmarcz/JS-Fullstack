@@ -45,7 +45,7 @@ This is an app which allows you to add, delete and view books uploaded to a data
 - <b>mongod</b>
 
 ### App Hosted 📁
-- [Link](https://elmarcz.github.io/JS-Fullstack)
+- [Link](https://books-js-fullstack.herokuapp.com)
 
 ## 🔍 Other
 ### 👤 Stay in touch
