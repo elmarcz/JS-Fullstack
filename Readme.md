@@ -39,10 +39,10 @@ This is an app which allows you to add, delete and view books uploaded to a data
 - <b>localhost:3000</b>
 
 ### Dependencies 🔃
-- <b>mongod</b>
+- <b>npm i express mongoose morgan multer dorenv cross-env cors fs-extra</b>
 
 ### Dev Dependencies 📦
-- <b>mongod</b>
+- <b>npm i webpack webpack-cli html-webpack-plugin css-loader style-loader mini-css-extract-plugin webpack-dev-server timeago.js nodemon -D</b>
 
 ### App Hosted 📁
 - [Link](https://books-js-fullstack.herokuapp.com)
