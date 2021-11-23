@@ -32,7 +32,7 @@ This is an app which allows you to add, delete and view books uploaded to a data
 
 ## 💡 App Info
 ### Start the app 🔌
-- <b>mongod</b>
+- <a href='https://www.youtube.com/watch?v=lWMemPN9t6Q&t=380s'><b>mongod</b></a>
 - <b>npm run dev</b>
 
 ### Port 🔒
